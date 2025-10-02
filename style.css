@@ -31,12 +31,13 @@ button{
    font-weight: 80px;
    margin-right: 400px;
    padding: 20px 40px;
-   background-color: #FFD000;
+   background: linear-gradient(yellow , gold);
    border-radius: 10px;
    border: 2px solid black;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
    
+
 
 
 }
