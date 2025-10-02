@@ -1,0 +1,42 @@
+@font-face {
+    font-family: car;
+    src: url(./draco/Draco.otf);
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html , body {
+    height: 100%;
+    width: 100%;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    background-image: url(https://images.unsplash.com/photo-1526726538690-5cbf956ae2fd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size: cover;
+    text-align: right;
+}
+h1{
+    font-size: 80px;
+    font-family: car;
+    color:rgb(255, 208, 0);
+    padding-top: 200px;
+}
+button{
+   font-size: 35px;
+   font-weight: 80px;
+   margin-right: 400px;
+   padding: 20px 40px;
+   background-color: #FFD000;
+   border-radius: 10px;
+   border: 2px solid black;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   
+
+
+}
